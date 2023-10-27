@@ -1,0 +1,2 @@
+- Change the file path when executing the file
+- Plotly pie chart only shows if the code is running or executed.

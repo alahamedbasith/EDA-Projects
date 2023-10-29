@@ -4,7 +4,7 @@ We will planned to upload some  EDA projects on data analytics and data science.
 
 1.Zomato Dataset Analysis - Data Analysis(Completed) 
 
-2.Black Friday offer Prediction - Data Science
+2.Black Friday offer Prediction - Data Science(Completed)
 
 3.Flight Price Prediction - Data Science 
 

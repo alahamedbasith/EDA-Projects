@@ -6,7 +6,7 @@ We will planned to upload some  EDA projects on data analytics and data science.
 
 2.Black Friday offer Prediction - Data Science(Completed)
 
-3.Flight Price Prediction - Data Science 
+3.Flight Price Prediction - Data Science(Completed)
 
 4.EDA on Time Series Data
 

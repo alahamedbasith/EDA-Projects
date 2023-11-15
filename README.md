@@ -10,18 +10,7 @@ We will planned to upload some  EDA projects on data analytics and data science.
 
 4.EDA on Time Series on Microsoft Stock- Data Analysis(Completed)
 
-5.Hospitality Analytics - Data Analysis 
+5.Hospitality Analytics - Data Analysis(Completed)
 
-6. Petrol and Oil prediction - Data Science 
+6. Petrol and Oil prediction - Data Science(Completed)
 
-Optional,
-
-7. Suggest your company data.We will analyze the data trends and make generative reports and also train your data for suitable predictions and analysis.
-
-If you are interested contact me at social media.
-
-These six domain projects are covered within EDA.
-
-Bonus:
-
-Pandas Profiling - Automated EDA.

@@ -1,0 +1,2 @@
+# Camp Engagement and 
+The primary objective of this data analytics project is to gain insights into health camp engagement and identify factors that contribute to positive outcomes without necessarily building a predictive model. The focus is on understanding patterns and trends within the data to inform strategies for enhancing community participation in health camps.

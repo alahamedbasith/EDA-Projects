@@ -12,5 +12,5 @@ We will planned to upload some  EDA projects on data analytics and data science.
 
 5.Hospitality Analytics - Data Analysis(Completed)
 
-6. Petrol and Oil prediction - Data Science(Completed)
+6.Petrol and Oil prediction - Data Science(Completed)
 

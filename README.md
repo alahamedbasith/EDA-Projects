@@ -10,7 +10,7 @@ We will planned to upload some  EDA projects on data analytics and data science.
 
 4.EDA on Time Series on Microsoft Stock- Data Analysis(Completed)
 
-5.Hospitality Analytics - Data Analysis(Completed)
+5.Understanding and Camp Engagement for Healthcare Analytics - Data Analysis(Completed)
 
-6.Petrol and Oil prediction - Data Science(Completed)
+6.Crude Oil Price Analysis and Prediction - Data Science(Completed)
 
